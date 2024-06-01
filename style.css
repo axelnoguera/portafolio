@@ -160,6 +160,7 @@
     justify-content:center;
     align-items:center;
     gap:6rem;
+    
     }
     
     .proyecto{
@@ -170,7 +171,6 @@
     grid-template-columns:1fr;
     grid-template-rows:1fr;
     overflow: hidden;
-    padding:1rem;
     }
     
     .proyecto img{    
