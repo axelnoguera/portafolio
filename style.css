@@ -172,6 +172,10 @@
     grid-template-rows:1fr;
     overflow: hidden;
     }
+
+    .proyecto:last-child{
+    margin-bottom:.5rem;
+    }
     
     .proyecto img{    
     height:100%;
