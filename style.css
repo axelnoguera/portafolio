@@ -210,3 +210,14 @@ color:#fff;
     }
 }
 
+@media screen and (max-width:500px){
+    .contenedor-uno__img{
+        height:18rem;
+        width:18rem;
+    }
+
+    .cont-texto__texto{
+        font-size:1.6rem;
+    }
+}
+
