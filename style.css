@@ -17,7 +17,7 @@ padding:5rem 1rem 5rem 1rem;
 background:#fde11d;
 }
 
-.contenedor-uno__img{
+.contenedor-uno-img{
 height:20rem;
 width:20rem;
 object-fit: cover;
@@ -26,7 +26,7 @@ justify-self:end;
 display:overflow;
 }
 
-.img{
+.contenedor-uno-img__img{
 height:100%;
 width:100%;
 }
