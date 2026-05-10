@@ -26,6 +26,11 @@ justify-self:end;
 display:overflow;
 }
 
+.img{
+height:20rem;
+width:20rem;
+}
+
 .contenedor-uno__cont-texto{
 display:grid;
 align-content:center;
