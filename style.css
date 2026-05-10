@@ -23,6 +23,7 @@ width:20rem;
 object-fit: cover;
 border-radius:50%;
 justify-self:end;
+display:overflow;
 }
 
 .contenedor-uno__cont-texto{
