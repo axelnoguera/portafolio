@@ -116,7 +116,7 @@ justify-content: start;
 }
 
 .proyectos__titulo{
-font-size:1.5rem;
+font-size:1.3rem;
 color:#fff;
 font-family:sans-serif;
 flex-basis:100vw;
@@ -164,6 +164,7 @@ width:1.2rem;
 }
 
 .informacion-proyecto__texto{
+font-size:1.3rem;
 font-family:sans-serif;
 color:#fff;
 }
@@ -180,11 +181,13 @@ border:.1rem solid #fff;
 }
 
 .rojo{
+font-size:1.3rem;
 font-family:sans-serif;
 color:rgb(255, 0, 0);
 }
 
 .amarillo{
+font-size:1.3rem;
 font-family:sans-serif;
 color:rgb(255, 255, 0);
 }
