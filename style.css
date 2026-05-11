@@ -18,12 +18,11 @@ background:#fde11d;
 }
 
 .contenedor-uno-img{
-height:20rem;
-width:20rem;
+height:15rem;
+width:15rem;
 object-fit: cover;
 border-radius:50%;
 justify-self:end;
-display:overflow;
 }
 
 .contenedor-uno-img__img{
