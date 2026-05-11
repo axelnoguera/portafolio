@@ -180,10 +180,12 @@ border:.1rem solid #fff;
 }
 
 .rojo{
+font-family: "oswald",sans-serif;
 color:rgb(255, 0, 0);
 }
 
 .amarillo{
+font-family: "oswald",sans-serif;
 color:rgb(255, 255, 0);
 }
 
