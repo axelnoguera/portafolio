@@ -20,7 +20,6 @@ background:#fde11d;
 .contenedor-uno-img{
 height:15rem;
 width:15rem;
-object-fit: cover;
 border-radius:50%;
 justify-self:end;
 }
