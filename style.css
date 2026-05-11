@@ -20,13 +20,14 @@ background:#fde11d;
 .contenedor-uno-img{
 height:15rem;
 width:15rem;
-border-radius:50%;
+
 justify-self:end;
 }
 
 .contenedor-uno-img__img{
 height:100%;
 width:100%;
+border-radius:50%;
 }
 
 .contenedor-uno__cont-texto{
